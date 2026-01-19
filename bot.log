@@ -1,0 +1,31 @@
+[2026-01-19 14:47:41] Бот запущен и ожидает сообщения...
+[2026-01-19 14:47:52] Пользователь 1589368344 (kawa_a1) нажал /start
+[2026-01-19 14:50:48] Бот запущен и ожидает сообщения...
+[2026-01-19 14:50:58] Пользователь 1589368344 (kawa_a1) нажал /start
+[2026-01-19 14:51:39] Бот запущен и ожидает сообщения...
+[2026-01-19 14:51:52] Пользователь 1589368344 (kawa_a1) нажал /start
+[2026-01-19 14:53:13] Пользователь 8563516512 (dd_shock) нажал /start
+[2026-01-19 14:53:22] [WARN] Пользователь 8563516512 отправил невалидную ссылку: л
+[2026-01-19 14:53:59] Пользователь 8563516512 (dd_shock) запросил: https://vt.tiktok.com/ZSaLt9o2U/
+[2026-01-19 14:53:59] [INFO] cookies.txt не найден — продолжаю без него
+[2026-01-19 14:53:59] [INFO] ffmpeg-location не задан — использую системный ffmpeg из PATH
+[2026-01-19 14:54:04] yt-dlp stdout:
+[vm.tiktok] Extracting URL: https://vt.tiktok.com/ZSaLt9o2U/
+[vm.tiktok] ZSaLt9o2U: Downloading webpage
+[TikTok] Extracting URL: https://www.tiktok.com/@popkaclipin/video/7578083379904662787?_r=1&_t=ZS-93CWKCUSHx4
+[TikTok] 7578083379904662787: Downloading webpage
+[info] 7578083379904662787: Downloading 1 format(s): bytevc1_720p_252599-1
+[download] Destination: yt_7578083379904662787.mp4
+[download]   0.0% of    5.01MiB at  787.96KiB/s ETA 00:06[download]   0.1% of    5.01MiB at  593.87KiB/s ETA 00:08[download]   0.1% of    5.01MiB at  509.98KiB/s ETA 00:10[download]   0.3% of    5.01MiB at  568.42KiB/s ETA 00:08[download]   0.6% of    5.01MiB at  352.45KiB/s ETA 00:14[download]   1.2% of    5.01MiB at  532.18KiB/s ETA 00:09[download]   2.5% of    5.01MiB at  715.25KiB/s ETA 00:06[download]   5.0% of    5.01MiB at    1.07MiB/s ETA 00:04[download]  10.0% of    5.01MiB at    1.64MiB/s ETA 00:02[download]  19.9% of    5.01MiB at    2.37MiB/s ETA 00:01[download]  39.9% of    5.01MiB at    3.98MiB/s ETA 00:00[download]  79.9% of    5.01MiB at    7.01MiB/s ETA 00:00[download]  95.5% of    5.01MiB at    8.13MiB/s ETA 00:00[download]  95.5% of    5.01MiB at  Unknown B/s ETA Unknown[download]  95.5% of    5.01MiB at  751.26KiB/s ETA 00:00  [download]  95.6% of    5.01MiB at  333.63KiB/s ETA 00:00[download]  95.7% of    5.01MiB at  258.79KiB/s ETA 00:00[download]  96.1% of    5.01MiB at  425.71KiB/s ETA 00:00[download]  96.7% of    5.01MiB at  489.58KiB/s ETA 00:00[download]  97.9% of    5.01MiB at  691.54KiB/s ETA 00:00[download] 100.0% of    5.01MiB at    1.01MiB/s ETA 00:00[download] 100% of    5.01MiB in 00:00:02 at 2.42MiB/s   
+[VideoRemuxer] Not remuxing media file "yt_7578083379904662787.mp4"; already is in target format mp4
+
+[2026-01-19 14:54:04] yt-dlp stderr:
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+
+[2026-01-19 14:54:04] Файл скачан: yt_7578083379904662787.mp4, размер: 5.01 MB
+[2026-01-19 14:54:04] Отправляю видео пользователю 8563516512
+[2026-01-19 14:54:06] Видео отправлено пользователю 8563516512
+[2026-01-19 14:54:06] Временный файл удалён: yt_7578083379904662787.mp4
+[2026-01-19 14:54:44] [ADMIN] Рассылка текста: "Все кто зашел те пидорасы" | Успешно: 2, Ошибки: 0
+[2026-01-19 14:55:53] [ADMIN] Рассылка с кнопкой: "Беляш" (дрочить → www.donationalerts.com) | Успешно: 2, Ошибки: 0
+[2026-01-19 14:56:24] [ADMIN] Рассылка с кнопкой: "Беляш" (дрочить → www.donationalerts.com) | Успешно: 2, Ошибки: 0

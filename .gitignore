@@ -1,0 +1,49 @@
+# Logs
+*.log
+bot.log
+
+# Runtime data (do NOT commit user data)
+users.txt
+stats.txt
+channels.txt
+
+# Cookies / secrets
+cookies.txt
+*_cookies.txt
+www.*.com_cookies.txt
+
+# Downloads / temp media produced by yt-dlp/ffmpeg
+downloaded_video.*
+yt_*.mp4
+yt_*.webm
+yt_*.m4a
+*.part
+*.ytdl
+*.aria2
+
+# Python caches / build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments / env files
+venv/
+.venv/
+.env
+.env.*
+.python-version
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
